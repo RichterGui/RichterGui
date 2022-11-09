@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @RichterGui
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web applications and related...
-- 📫 How to reach me ... richtergui97@gmail.com
+## Hello, I'm Guilherme A. Richter
+-Actually I'm working with NodeJs(Js and TS) in back-end, but I have some front-end skills too.
+-I'm currently learning NodeJs streams and multi threading, and I'm learning Java too.
+##
+<div align="center">
+  <a href="https://github.com/RichterGui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichterGui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichterGui&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+     <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ ##
+
 
 <!---
 RichterGui/RichterGui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
