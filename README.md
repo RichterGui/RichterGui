@@ -4,7 +4,7 @@
 ##
 <div align="center">
   <a href="https://github.com/RichterGui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichterGui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichterGui&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichterGui&layout=compact&langs_count=20&theme=tokyonight"/>
 </div>
   
@@ -17,6 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichterGui&repo=github-readme-stats)]
 
 
 <!---
