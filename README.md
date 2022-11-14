@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/RichterGui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichterGui&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichterGui&layout=compact&langs_count=20&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichterGui&layout=compact&langs_count=20&theme=tokyonight&count_private=true"/>
 </div>
   
   <div style="display: inline_block"><br>
