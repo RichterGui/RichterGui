@@ -1,6 +1,5 @@
 ## Hello, I'm Guilherme A. Richter
-- Currently I'm working with NodeJs(Js and TS) in back-end, but I have some front-end skills too.
-- I'm currently learning NodeJs streams and multi threading, and I'm learning Java too.
+- Currently I'm working with NodeJs(Js and TS) in back-end and GoLang, but I have some front-end skills too.
 ##
 <div align="center">
   <a href="https://github.com/RichterGui">
